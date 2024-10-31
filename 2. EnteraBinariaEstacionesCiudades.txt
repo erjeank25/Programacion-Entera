@@ -1,0 +1,9 @@
+Resultados del problema de ubicación de estaciones
+
+Estado: Optimal
+
+Número mínimo de estaciones: 2
+
+Ubicación de las estaciones:
+Ciudad 2
+Ciudad 3

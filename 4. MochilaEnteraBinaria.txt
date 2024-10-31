@@ -1,0 +1,21 @@
+--- Paso 1: Crear el problema de maximización ---
+--- Paso 2: Definir las variables de decisión ---
+Variables de decisión definidas (0 = no seleccionado, 1 = seleccionado):
+x_1 -> Objeto 1
+x_2 -> Objeto 2
+x_3 -> Objeto 3
+x_4 -> Objeto 4
+--- Paso 3: Definir la función objetivo ---
+Función objetivo formulada: Maximizar el valor total de los objetos seleccionados.
+--- Paso 4: Definir la restricción de capacidad ---
+Restricción de capacidad formulada: La suma de los pesos no debe exceder 12.0 kg.
+--- Paso 5: Resolver el problema ---
+Estado de la solución: Optimal
+--- Paso 6: Mostrar los objetos seleccionados ---
+Objeto 1: Seleccionado (Peso: 3.0, Valor: 15.0)
+Objeto 2: Seleccionado (Peso: 6.0, Valor: 25.0)
+Objeto 3: No seleccionado (Peso: 5.0, Valor: 12.0)
+Objeto 4: No seleccionado (Peso: 5.0, Valor: 10.0)
+--- Paso 7: Resultados finales ---
+Valor total en la mochila: 40.0
+Peso total en la mochila: 9.0

@@ -1,0 +1,10 @@
+Resolviendo el problema usando el algoritmo de ramificación y cortes...
+<pulp.apis.coin_api.PULP_CBC_CMD object at 0x000002590A3EB4A0>
+
+Estado de la solución:
+Estado: Optimal
+Valor objetivo: 1350.0
+
+Valores de las variables:
+x1 = 5.0
+x2 = 10.0

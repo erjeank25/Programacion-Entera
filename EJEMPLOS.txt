@@ -1,0 +1,54 @@
+PROGRAMA 1
+
+Problema de ejemplo: Optimización de producción
+
+Una fábrica produce dos tipos de productos: sillas y mesas. Quieren determinar cuántas unidades de cada producto 
+deben fabricar para maximizar sus ganancias, teniendo en cuenta las siguientes condiciones:
+
+1. Variables de decisión:
+
+x1: número de sillas a producir
+x2: número de mesas a producir
+
+2. Restricciones:
+
+1. La fábrica tiene 80 horas de tiempo de producción disponibles por semana.
+2. Cada silla requiere 4 horas de producción.
+3. Cada mesa requiere 6 horas de producción.
+4. La fábrica tiene un suministro limitado de madera que solo permite producir un 
+máximo de 15 unidades en total (entre sillas y mesas).
+5. Deben producirse al menos 2 sillas y al menos 1 mesa.
+
+3. Función objetivo:
+
+1. Cada silla vendida genera una ganancia de $70.
+2. Cada mesa vendida genera una ganancia de $100.
+3. El objetivo es maximizar las ganancias totales.
+
+1. Variables de decisión: x1,x2
+2. Restricciones (ingresa una por una):
+
+1. 4*x1 + 6*x2 <= 80
+2. x1 + x2 <= 15
+3. x1 >= 2
+4. x2 >= 1
+
+3. Objetivo: max
+4. Función objetivo: 70*x1 + 100*x2
+
+
+PROGRAMA 4
+
+Bienvenido al programa de optimización del problema de la mochila
+En cualquier momento, ingrese 'q' para salir del programa
+Ingrese el número de objetos: 4
+Ingrese los pesos y valores de los objetos:
+Peso del objeto 1: 3
+Valor del objeto 1: 15
+Peso del objeto 2: 6
+Valor del objeto 2: 25
+Peso del objeto 3: 5
+Valor del objeto 3: 12
+Peso del objeto 4: 5
+Valor del objeto 4: 10
+Ingrese la capacidad de la mochila: 12
