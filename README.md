@@ -1,3 +1,10 @@
+# Parcial 4 Métodos cuantitativos
+Integrantes: <br>
+Jean Odriozola 29.569.900 <br>
+Annuar Abouharb 30.350.953
+
+
+
 # Programación-Entera
 Proyecto de Resolucion de Problemas de Programación Entera por Consola mediante
 la librería <b>PuLP</b>
