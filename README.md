@@ -4,10 +4,13 @@ la librería <b>PuLP</b>
 
 # Explicación
 El proyecto trata 4 problemas en concreto:
-- Ramificación y Cortes (Modelo Entero Puro)
-- Problema de Estaciones Minimas en una Ciudad (Modelo Entero Binario)
-- Problema de Hornos Funcionales de una Panadería (Modelo Entero Mixto)
-- Problema de la Mochila (Modelo Entero Binario)
+1. Ramificación y Cortes (Modelo Entero Puro)
+2. Problema de Estaciones Minimas en una Ciudad (Modelo Entero Binario)
+3. Problema de Hornos Funcionales de una Panadería (Modelo Entero Mixto)
+4. Problema de la Mochila (Modelo Entero Binario)
+
+# Nota
+El archivo ```EJEMPLOS.txt``` sirve de ejemplo para resolver los problemas 1 y 4.
 
 # Requerimientos
 Ejecutar el siguiente comando en terminal para instalar dependencias utilizadas
